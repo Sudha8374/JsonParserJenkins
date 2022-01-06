@@ -7,13 +7,13 @@ import java.net.UnknownHostException;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.junit.runner.RunWith;
-import org.powermock.api.mockito.PowerMockito;
-import org.powermock.core.classloader.annotations.PrepareForTest;
-import org.powermock.modules.junit4.PowerMockRunner;
+//import org.junit.runner.RunWith;
+//import org.powermock.api.mockito.PowerMockito;
+//import org.powermock.core.classloader.annotations.PrepareForTest;
+//import org.powermock.modules.junit4.PowerMockRunner;
 
-@RunWith(PowerMockRunner.class)
-@PrepareForTest(BufferedReader.class)
+//@RunWith(PowerMockRunner.class)
+//@PrepareForTest(BufferedReader.class)
 
 class ParserProblemTest {
 ParserProblem parse;
