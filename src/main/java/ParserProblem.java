@@ -6,7 +6,7 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.UnknownHostException;
-import org.json.JSONObject;
+//import org.json.JSONObject;
 public class ParserProblem {
 	public String par()throws Exception {
 		String url = "https://en.wikipedia.org/w/api.php?format=json&action=query&titles=SMALL&prop=revisions&rvprop=content";
